@@ -1,0 +1,11 @@
+I learned today Python
+> Datatypes
+> Arithmetic Operators
+> Conditional Operators
+> Logical Operators
+> For and While Loop
+> Function
+> File IO
+> Objects and Classes
+> Inheritance
+> Polymorphism
